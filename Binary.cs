@@ -1,4 +1,4 @@
-internal static class Binary
+internal static class BinarySearch
     {
         internal static void Search()
         {
