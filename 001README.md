@@ -1,2 +1,2 @@
 # Snippets
-some useful methods, classes and snippets.
+Some useful methods, classes and snippets.
