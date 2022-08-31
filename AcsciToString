@@ -1,0 +1,16 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int[] ascii =  new int[4]{69,77,65,78};
+		foreach(var asci in ascii)
+		{
+			char character = (char) asci;
+			string text = character.ToString();
+			Console.Write(text);
+		}
+		
+	}
+}
